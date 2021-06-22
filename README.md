@@ -1,2 +1,2 @@
-# TH-TechDegree-Project-8
- API to Create an Employee Directory
+# TH-TechDegree-Project8
+ API Employee Directory
