@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded',() => {
     //////   GLOBAL VARIABLES
     ///////////////////////////////////////
 
-    const modalBtn = document.querySelector('.modal-close')
+    const modalBtn = document.querySelector('.modal-closebtn')
     const modal = document.querySelector('#modal-container')
     const overlay = document.querySelector('.overlay')
     const APIUrl = `https://randomuser.me/api/?results=12&inc=name, picture, email, location, phone, dob &noinfo &nat=US`
